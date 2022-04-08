@@ -3,6 +3,6 @@ Expense Tracker Project ,This project is built on React.js .We can see our yearl
 
 
 
-Here we can see Add New Expense Button,once we click on that we can add the expenses and once you click on add expenses we can see expenses is added under specfic expenses year list and see the animation according to expenses done by year.
+Here we can see Add New Expense Button,once we click on that we can read users expenses and display user entered expenses under specfic year it is made. We can even  see the animation according to expenses done by year.
 ![Add New Expense output](https://github.com/Sushmita1212/ExpenseTracker/blob/master/outputimage/ExpensTracker.PNG)
 ![Once expenses added output](https://github.com/Sushmita1212/ExpenseTracker/blob/master/outputimage/AddingExpenses.PNG)
